@@ -19,6 +19,23 @@ TL;DR - Fork & Send a PR with your talk proposal
 
 The deadline for proposals is April 26, 2015.
 
+## Subjects
+
+We would love to see any AngularJS-related subject. Here are some ideas:
+
+* Migrating your app to Angular 2.0
+* Forms in Angular 2.0
+* Using React and AngularJS together
+* Building Hybrid Mobile Apps (Ionic or Famo.us)
+* Performance Tuning
+* Production Debugging
+* How you implement testing
+* Transitioning to AngularJS (Case study)
+* Angular Meteor
+* Tooling (Brocolli, JSPM, Gulp, Webpack, etc.)
+* Flux with AngularJS
+* Material Design (case study)
+
 ## Help
 
 If you need any help with submitting your talk, please
