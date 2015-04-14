@@ -36,6 +36,8 @@ We would love to see any AngularJS-related subject. Here are some ideas:
 * Flux with AngularJS
 * Material Design (case study)
 
+Talk duration can be anywhere between 15 and 40 minutes.
+
 ## Help
 
 If you need any help with submitting your talk, please
