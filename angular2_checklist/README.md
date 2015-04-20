@@ -6,14 +6,11 @@ About The Speaker
 Nir Kaufman
 
 ### Biography
-
 Experienced full-stack javaScript developer, AngularJS Expert, consultant, Teacher & community activist. 
-Head of Angularjs Development @500tech
+Head of AngularJS Development @500tech.  
 Continuously seeking for ways to improve code, learn new technologies and keeping things fresh.
 
-
 ### Speaker Details
-
 - First Time Speaking: no
 - Email: nir@500tech.com
 - Phone: 054.4554.258
@@ -25,7 +22,6 @@ Session Details
 ===============
 
 ### Session Title
-
 Getting ready for Angular 2
 
 ### Session Abstract

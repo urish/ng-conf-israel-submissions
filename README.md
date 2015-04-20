@@ -3,7 +3,7 @@ ng-conf Israel 2015
 
 Use this repo to submit your talk proposals for [ng-conf Israel 2015](http://ng-conf.co.il).
 
-TL;DR - Fork & Send a PR with your talk proposal
+TL;DR - Fork & Send a PR with your talk k
 
 ## How to Submit your Proposal
 
